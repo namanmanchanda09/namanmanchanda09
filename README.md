@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as an AI Freelancer and doing some Kaggling.
 - 🌱 I’m currently learning iOS.
-- 👯 I’m looking to collaborate on ReactJS and GraphQL projects.
+- 👯 I’m looking to collaborate on iOS/Data Science projects.
 - 🤔 I’m looking for help with UI/UX Designing.
 - 💬 Ask me about Startups and Tech.
 - 📫 How to reach me: Send a DM at [@NamanManchanda2](https://twitter.com/NamanManchanda2).

@@ -11,4 +11,4 @@
 - ⚡ Fun fact: I'm poor but write a newsletter named [Trillion Dollar Newsletter](https://namanmanchanda.substack.com).
 
 ![Naman's Github Stats](https://github-readme-stats.vercel.app/api?username=namanmanchanda09&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanmanchanda09&layout=compact)](https://github.com/namanmanchanda09/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanmanchanda09&layout=compact&theme=omni)](https://github.com/namanmanchanda09/)

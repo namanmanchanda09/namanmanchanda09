@@ -6,5 +6,5 @@
 - ₿ I'm developer #4762 @ https://www.developerdao.com/.
 - 🌱 I’m exploring Blockchain/Web3/Crypto/NFTs.
 - 📫 How to reach me: Send a DM at [@NamanManchanda2](https://twitter.com/NamanManchanda2).
-- ⚡ Fun fact: I'm poor but write a newsletter named [Trillion Dollar Newsletter](https://namanmanchanda.substack.com).
+- ⚡ Fun fact: Mind fears the heart but the heart doesn't mind.
 - 😄 Pronouns: He/Him
